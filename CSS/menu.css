@@ -1,0 +1,8 @@
+body {
+  position: relative;
+}
+footer {
+  margin-bottom: 0;
+  bottom: 0;
+  position: absolute;
+}
